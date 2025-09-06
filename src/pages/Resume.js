@@ -1,4 +1,4 @@
-import ResumeItem from "../components/ResumeItem";
+import ResumeItem from "../components/ResumeItem";http://localhost:3000/
 
 export default function Resume() {
   return (
